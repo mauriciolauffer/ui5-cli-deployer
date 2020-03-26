@@ -13,7 +13,7 @@
 		"tool"
 	],
 	"bin": {
-		"ui5": "./bin/ui5.js"
+		"ui5-deployer": "./bin/ui5-deployer.js"
 	},
 	"main": "index.js",
 	"files": [

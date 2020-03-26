@@ -53,7 +53,7 @@ setTimeout(() => {
 	cli.version(version);
 
 	// Explicitly set script name to prevent windows from displaying "ui5.js"
-	cli.scriptName("ui5");
+	cli.scriptName("ui5-deployer");
 
 	// CLI modules
 	cli.commandDir("../lib/cli/commands");
