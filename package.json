@@ -39,9 +39,7 @@
 		"treeify": "^1.0.1",
 		"update-notifier": "^3.0.1",
 		"yargs": "^13.3.0",
-		"isbinaryfile": "^4.0.4",
-		"request": "^2.88.2",
-		"xmldoc": "^1.1.2"
+		"ui5-deployer": "*"
 	},
 	"devDependencies": {}
 }
