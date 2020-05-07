@@ -1,7 +1,7 @@
 {
 	"name": "ui5-cli-deployer",
-	"version": "1.9.0",
-	"description": "UI5 Tooling - CLI",
+	"version": "2.2.0",
+	"description": "Forked from UI5 Tooling - CLI",
 	"author": "SAP SE (https://www.sap.com)",
 	"license": "Apache-2.0",
 	"keywords": [
@@ -29,17 +29,13 @@
 		"url": "https://github.com/mauriciolauffer/ui5-cli-deployer.git"
 	},
 	"dependencies": {
-		"@ui5/fs": "^1.1.2",
-		"@ui5/logger": "^1.0.1",
-		"@ui5/project": "^1.1.0",
-		"import-local": "^3.0.2",
-		"js-yaml": "^3.13.1",
-		"open": "^6.4.0",
-		"semver": "^6.3.0",
-		"treeify": "^1.0.1",
-		"update-notifier": "^3.0.1",
-		"yargs": "^13.3.0",
-		"ui5-deployer": "*"
+		"@ui5/fs": "2.0.1",
+		"@ui5/logger": "2.0.0",
+		"@ui5/project": "2.1.0",
+		"import-local": "3.0.2",
+		"js-yaml": "3.13.1",
+		"ui5-deployer": "*",
+		"yargs": "15.3.1"
 	},
 	"devDependencies": {}
 }

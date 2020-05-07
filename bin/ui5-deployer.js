@@ -36,14 +36,7 @@ setTimeout(() => {
 		}
 	}
 
-	const updateNotifier = require("update-notifier");
 	const cli = require("yargs");
-
-	updateNotifier({
-		pkg,
-		updateCheckInterval: 1000 * 60 * 60 * 24, // 1 day
-		shouldNotifyInNpmScript: true
-	}).notify();
 
 	// Explicitly set CLI version as the yargs default might
 	// be wrong in case a local CLI installation is used
