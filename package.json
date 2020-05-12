@@ -1,6 +1,6 @@
 {
 	"name": "ui5-cli-deployer",
-	"version": "2.2.0",
+	"version": "2.2.2",
 	"description": "Forked from UI5 Tooling - CLI",
 	"author": "SAP SE (https://www.sap.com)",
 	"license": "Apache-2.0",
