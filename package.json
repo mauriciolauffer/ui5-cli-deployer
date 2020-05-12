@@ -17,10 +17,7 @@
 	},
 	"main": "index.js",
 	"files": [
-		"CONTRIBUTING.md",
 		"index.js",
-		"jsdoc.json",
-		"npm-shrinkwrap.json",
 		"bin/**",
 		"lib/**"
 	],
@@ -34,7 +31,7 @@
 		"@ui5/project": "^2.1.2",
 		"import-local": "^3.0.2",
 		"js-yaml": "^3.13.1",
-		"ui5-deployer": "^0.1.6",
+		"ui5-deployer": "0.2.1",
 		"yargs": "^15.3.1"
 	}
 }
