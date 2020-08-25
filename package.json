@@ -31,7 +31,7 @@
 		"@ui5/project": "^2.1.2",
 		"import-local": "^3.0.2",
 		"js-yaml": "^3.13.1",
-		"ui5-deployer": "0.2.*",
+		"ui5-deployer": "0.3.*",
 		"yargs": "^15.3.1"
 	}
 }
